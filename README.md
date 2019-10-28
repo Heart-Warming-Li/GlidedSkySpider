@@ -10,3 +10,14 @@ Record the crawler code of GlidedSky website.
 
 ##### 代码不严谨,如果有观看的小伙伴,见谅！
 ###### Code is not rigorous, if there are watching the partner, forgive me!
+
+
+### 项目对应
+###### Spider_base_1.py ->            爬虫-基础1
+###### Spider_base_paging_2.py ->     爬虫-基础2
+###### Spider_font_the_climb_1.py ->  爬虫-字体反爬-1
+###### Spider_CSS_the_climb_1.py ->   爬虫-CSS反爬
+###### Spider_captcha_1.py ->         爬虫-验证码-1
+###### Spider_Js_1.py ->              爬虫-JS加密1
+###### Spider_font_the_climb_2.py ->  爬虫-字体反爬-2
+###### Spider_sprite_image_1.py ->    爬虫-雪碧图-1
